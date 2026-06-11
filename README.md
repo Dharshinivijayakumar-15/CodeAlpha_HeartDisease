@@ -40,13 +40,13 @@ disease_prediction/
 
 
 
-##  How to Run
+  How to Run
 ```
 pip install pandas scikit-learn matplotlib seaborn
 python heart_disease_model.py
 ```
 
-## 📊 Results
+ 📊 Results
 | Model | Accuracy |
 |-------|----------|
 | Random Forest | 98.54% |
@@ -57,7 +57,7 @@ python heart_disease_model.py
 
 ---
 
-## 🔍Sample Predictions
+ Sample Predictions
 | Person | Details | Prediction |
 |--------|---------|------------|
 | Person 1 | 58yr Female | Heart Disease ❌ |

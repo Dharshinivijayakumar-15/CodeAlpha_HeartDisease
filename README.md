@@ -40,7 +40,7 @@ disease_prediction/
 
 
 
-  How to Run
+  # How to Run
 ```
 pip install pandas scikit-learn matplotlib seaborn
 python heart_disease_model.py
